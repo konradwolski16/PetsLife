@@ -1,0 +1,11 @@
+C:\Users\konra\source\repos\PetsLife\bin\Debug\PetsLife.exe.config
+C:\Users\konra\source\repos\PetsLife\bin\Debug\PetsLife.exe
+C:\Users\konra\source\repos\PetsLife\bin\Debug\PetsLife.pdb
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.csprojAssemblyReference.cache
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.Form1.resources
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.Form2.resources
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.Properties.Resources.resources
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.exe
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.pdb
+C:\Users\konra\source\repos\PetsLife\obj\Debug\PetsLife.Form3.resources
