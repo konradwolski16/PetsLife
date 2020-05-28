@@ -25,14 +25,14 @@ namespace PetsLife
 
         }
 
-        public void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e) // Opening new form
         {
             
             f2.Show();
             this.Hide();
         }
 
-        public void button2_Click(object sender, EventArgs e)
+        public void button2_Click(object sender, EventArgs e) // Closing the game
         {
             this.Close();
             f2.Close();

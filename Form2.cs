@@ -30,7 +30,7 @@ namespace PetsLife
         
         
         
-        public void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e) // Functions to change the picture in selection form.
         {
             pet_c = 1;
             
@@ -123,7 +123,7 @@ namespace PetsLife
             
         }
 
-        public void button2_Click_1(object sender, EventArgs e)
+        public void button2_Click_1(object sender, EventArgs e) // Function to pass the data of which pet was selected
         {
             if (pet_c == 1)
             {
